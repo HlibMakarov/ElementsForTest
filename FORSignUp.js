@@ -1,6 +1,6 @@
 
 class ForSignUpDown {
-
+// Locators For GitHub.com
     SignUP() {
         it('open url', () => {
            // array with input data
